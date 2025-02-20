@@ -8,7 +8,7 @@ format:
 
 ## Column {width = "35%"}
 
-Placeholder text for column 1
+Placeholder text for column 11
 
 ```{r, loadpackages}
 #| echo: false
