@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ccsuehara.github.io/sampled/dashboard.html</loc>
+    <lastmod>2025-10-21T14:04:09.485Z</lastmod>
+  </url>
+  <url>
     <loc>https://ccsuehara.github.io/sampled/index.html</loc>
-    <lastmod>2025-10-20T14:03:44.399Z</lastmod>
+    <lastmod>2025-10-21T14:04:09.485Z</lastmod>
   </url>
   <url>
     <loc>https://ccsuehara.github.io/sampled/about.html</loc>
-    <lastmod>2025-10-20T14:03:44.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ccsuehara.github.io/sampled/dashboard.html</loc>
-    <lastmod>2025-10-20T14:03:44.399Z</lastmod>
+    <lastmod>2025-10-21T14:04:09.485Z</lastmod>
   </url>
 </urlset>
